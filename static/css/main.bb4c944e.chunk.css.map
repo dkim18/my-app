@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,eAEC,yBAA2B,CAC3B,kBACD,CACA,mBACI,WACJ,CACA,gBACI,YAAY,CACZ,SACF","file":"main.bb4c944e.chunk.css","sourcesContent":["button,\n.button {\n\tmargin-bottom: 0 !important;\n\tmargin-right: .5rem;\n}\ninput[type=number]{\n    width: 130px;\n}\n.required:after {\n    content:\" *\";\n    color: red;\n  }"]}
